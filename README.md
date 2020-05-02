@@ -1,17 +1,33 @@
-# test
-test
+# readme.md  Generator
+Create a command-line application that dynamically generates a README.md from a user&#x27;s input.
 
 #### Table of Contents
 - [Installation](#Installation)
+- [Usage](#Usage)
 - [License](#License)
 
 ---
 
 ## Installation
-test
+Download or clone the repo, run npm install:
+
+```
+npm install
+```
+
+## Usage
+Then run the application by typing node index into the console:
+
+```
+node index
+```
+
+Then follow the prompts.
 
 ## License
-This project is licensed under the  [![License](https://img.shields.io/badge/License-AGPL-3.0-blue.svg)](http://choosealicense.com/licenses/agpl-3.0/)
+| Details | Author |
+|---|---|
+|This project is licensed under the MIT License - see [choosealicense.com](http://choosealicense.com/licenses/mit/) for more details.<br />A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.<br /><br />[![License](https://img.shields.io/badge/License-MIT-blue.svg)](http://choosealicense.com/licenses/mit/) © [Zypherone](zypherone@github.com)| <img src="https://avatars1.githubusercontent.com/u/360494?v=" width="250"> |
 
-Permissions of this strongest copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. When a modified version is used to provide a service over a network, the complete source code of the modified version must be made available.
- © [Zypherone]()
+
+
